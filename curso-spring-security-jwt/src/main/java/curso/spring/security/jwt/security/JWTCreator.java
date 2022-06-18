@@ -1,4 +1,4 @@
-package curso.spring.security.jwt.service;
+package curso.spring.security.jwt.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
